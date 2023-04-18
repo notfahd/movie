@@ -1,0 +1,21 @@
+{
+  "name": "loginusernamebrave-dream-8cwbsj",
+  "version": "1.0.0",
+  "description": "MOCIE APP",
+  "keywords": ["MOCIE APP", "mocie", "app", "Tv"],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "4.8.0",
+    "react-router-dom": "6.10.0"
+  },
+
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
